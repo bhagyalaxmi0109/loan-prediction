@@ -1,0 +1,12 @@
+Feature,Scaler_Min,Scaler_Max
+Gender,0.0,1.0
+Married,0.0,1.0
+Education,0.0,1.0
+Self_Employed,0.0,1.0
+Credit_History,0.0,1.0
+ApplicantIncome,9.250426095515468,10139.0
+CoapplicantIncome,0.0,5302.0
+LoanAmount,5.583496308781699,260.0
+Loan_Amount_Term,2.5649493574615367,360.0
+Dependents,0.6707880975648535,0.7470667468984121
+Property_Area,0.6122451613603412,0.787234038070086
